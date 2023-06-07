@@ -21,9 +21,10 @@ Machine Learning Model 1:
   - Precision for High-Risk Loans: 87%
   - Recall for Healthy Loans: 100%
   - Recall for High-Risk Loans: 89%
-  - Machine Learning Model 2:
 
-Balanced Accuracy Score: 99.52%
+Machine Learning Model 2:
+
+  - Balanced Accuracy Score: 99.52%
   - Precision for Healthy Loans: 100%
   - Precision for High-Risk Loans: 87%
   - Recall for Healthy Loans: 100%
